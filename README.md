@@ -1,6 +1,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=royallhs)](https://solved.ac/royallhs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hwasoo-Jeon&layout=compact&theme=dracula)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hwasoo-Jeon&hide=contribs,prs&show_icons=true&theme=graywhite)
 <!--
 **Hwasoo-Jeon/Hwasoo-Jeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
